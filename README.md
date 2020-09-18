@@ -1,1 +1,2 @@
 # GPPIAL
+A global aligner.
